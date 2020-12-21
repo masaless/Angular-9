@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "gela",
+      "price": "1.500",
+      "id": 1
+    },
+    {
+      "name": "222",
+      "price": "3333",
+      "id": 2
+    },
+    {
+      "name": "Matheus Damasceno Sales",
+      "price": "2",
+      "id": 3
+    },
+    {
+      "name": "Matheus Damasceno Sales",
+      "price": "3333",
+      "id": 4
+    },
+    {
+      "name": "Matheus",
+      "price": "1.500",
+      "id": 5
+    }
+  ]
+}
