@@ -1,3 +1,23 @@
 table {
     width: 100%;
 }
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit {
+    color: #d9cd26;
+}
+
+.edit:hover {
+    color: #9b9103;
+}
+
+.delete {
+    color: #e35e6b;
+}
+
+.delete:hover {
+    color: #f72e42;
+}
