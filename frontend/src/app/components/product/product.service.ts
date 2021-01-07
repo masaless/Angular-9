@@ -8,6 +8,9 @@ import { Product } from './product-create/product.model';
   providedIn: 'root'
 })
 export class ProductService {
+  readById(id: string | null) {
+    throw new Error('Method not implemented.');
+  }
 
   baseUrl = "http://localhost:3001/products";
 
