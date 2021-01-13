@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "name": "Mouse pad",
-      "price": "20",
-      "id": 1
-    },
-    {
       "name": "TV SMART 4K",
       "price": "3200",
       "id": 2
