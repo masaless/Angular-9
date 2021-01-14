@@ -1,14 +1,9 @@
 {
   "products": [
     {
-      "name": "TV SMART 4K",
-      "price": "3200",
-      "id": 2
-    },
-    {
-      "name": "NOTEBOOK GAMER I7 16 RAM PLACA 1650",
-      "price": "5500",
-      "id": 3
+      "name": "Mouse Gamer HyperX",
+      "price": "200",
+      "id": 1
     }
   ]
 }

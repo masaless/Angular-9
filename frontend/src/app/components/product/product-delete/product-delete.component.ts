@@ -3,6 +3,7 @@ import { ProductService } from './../product.service';
 import { Component, OnInit } from '@angular/core';
 import { Product } from '../product-create/product.model';
 
+
 @Component({
   selector: 'app-product-delete',
   templateUrl: './product-delete.component.html',
@@ -25,7 +26,7 @@ export class ProductDeleteComponent implements OnInit {
 
   }
   deleteProduct(): void {
-    this.ProductService.delete(this.product.id).subscribe(() => {
+    this.ProductService.delete(this.product.id!).subscribe(() => {
       this.ProductService.showMessage('Produto excluído com sucesso')
       this.router.navigate(['/products'])
     })
