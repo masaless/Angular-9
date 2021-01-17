@@ -7,8 +7,14 @@
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #333;
 }
-
+.header a:hover {
+    color: rgb(87, 87, 87);
+}
+.header a i { 
+    margin: 6px;
+}
 .header .logo {
     max-height: 32px;
 }

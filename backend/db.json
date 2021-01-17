@@ -4,6 +4,11 @@
       "name": "Mouse Gamer HyperX",
       "price": "200",
       "id": 1
+    },
+    {
+      "name": "Mouse",
+      "price": "1.500",
+      "id": 2
     }
   ]
 }
